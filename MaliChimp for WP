@@ -1,0 +1,6 @@
+<div class="input-newsletter">
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+	<div class="input-newsletter-button">
+        <input type="submit" value="SIGN UP" />
+  	</div>
+</div>
